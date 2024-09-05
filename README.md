@@ -15,3 +15,17 @@ Jarvis is a basic voice-responsive chatbot that interacts with users by listenin
   ```bash
   pip install SpeechRecognition
   pip install pyttsx3
+
+Prerequisites
+Make sure you have Python installed on your machine. You can download it from python.org.
+
+Installation
+Clone the repository:
+
+git clone https://github.com/your-username/jarvis-chatbot.git
+Navigate to the project directory:
+
+cd jarvis-chatbot
+Install the required Python libraries:
+
+pip install -r requirements.txt
